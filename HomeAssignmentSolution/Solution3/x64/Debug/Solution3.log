@@ -1,0 +1,3 @@
+﻿  Solution3.cpp
+C:\Users\amits\Documents\homeassignment-cpp2-main\HomeAssignmentSolution\Solution3\Solution3.cpp(168,7): warning C4101: 'new_arr': unreferenced local variable
+  Solution3.vcxproj -> C:\Users\amits\Documents\homeassignment-cpp2-main\HomeAssignmentSolution\x64\Debug\Solution3.exe
